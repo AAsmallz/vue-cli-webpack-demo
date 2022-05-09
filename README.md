@@ -24,6 +24,8 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### add webpack tools and related plugins
-npm install webpack webpack-cli webpack-dev-serve html-webpack-plugin -D 
-npm style-loader css-loader  vue-loader --save-D 
+npm install webpack webpack-cli webpack-dev-serve html-webpack-plugin style-loader css-loader  vue-loader --save-D 
 
+### other
+You maybe need other plug-ins, which can be installed and configured according to the official website.
+ 
